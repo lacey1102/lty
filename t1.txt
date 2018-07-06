@@ -1,2 +1,3 @@
 new file t1.txt
 mdf test1
+нр╦дак
